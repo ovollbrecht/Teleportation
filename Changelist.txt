@@ -1,4 +1,4 @@
-=========================Personal Teleporter changelog=========================
+﻿=========================Personal Teleporter changelog=========================
 0.2.0:
 • mod has been entirely rewritten;
 • fully configurable (see config);
@@ -132,6 +132,9 @@
 
 0.16.1:
 • annoying spamming is turned off (sorry, my bad)
+
+0.17.0:
+• Compatibility Patch for 0.17
 
 CURRENT PROGRESS (not released yet):
 

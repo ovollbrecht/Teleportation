@@ -47,44 +47,32 @@ data.raw["gui-style"].default["teleportation_main_button_style"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 48,
       height = 48,
       x = 64,
       y = 96,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 48,
       height = 48,
       x = 112,
       y = 96,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 48,
       height = 48,
       x = 112,
       y = 96,
-    }
   },
   left_click_sound =
   {
@@ -102,44 +90,32 @@ data.raw["gui-style"].default["teleportation_button_style_teleport"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 0,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 0,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 32,
       x = 0,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -157,44 +133,32 @@ data.raw["gui-style"].default["teleportation_button_style_edit"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 32,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 32,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 32,
       x = 32,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -212,44 +176,32 @@ data.raw["gui-style"].default["teleportation_button_style_globus"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 64,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 64,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 32,
       x = 64,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -267,44 +219,32 @@ data.raw["gui-style"].default["teleportation_button_style_sort_alphabet"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 96,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 96,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 32,
       x = 96,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -322,44 +262,32 @@ data.raw["gui-style"].default["teleportation_button_style_sort_from_player"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 128,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 128,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 32,
       x = 128,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -377,44 +305,32 @@ data.raw["gui-style"].default["teleportation_button_style_sort_from_start"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 160,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 160,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 32,
       x = 160,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -432,44 +348,32 @@ data.raw["gui-style"].default["teleportation_button_style_arrow_left"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 16,
       height = 32,
       x = 192,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 16,
       height = 32,
       x = 192,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 16,
       height = 32,
       x = 192,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -487,44 +391,32 @@ data.raw["gui-style"].default["teleportation_button_style_arrow_right"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 16,
       height = 32,
       x = 208,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 16,
       height = 32,
       x = 208,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 16,
       height = 32,
       x = 208,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -542,44 +434,32 @@ data.raw["gui-style"].default["teleportation_button_style_arrow_up"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 0,
       y = 96,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 0,
       y = 112,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 16,
       x = 0,
       y = 128,
-    }
   },
   left_click_sound =
   {
@@ -597,44 +477,32 @@ data.raw["gui-style"].default["teleportation_button_style_arrow_down"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 32,
       y = 96,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 32,
       y = 112,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 16,
       x = 32,
       y = 128,
-    }
   },
   left_click_sound =
   {
@@ -652,44 +520,32 @@ data.raw["gui-style"].default["teleportation_button_style_link_small"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 160,
       y = 96,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 160,
       y = 112,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 16,
       x = 160,
       y = 128,
-    }
   },
   left_click_sound =
   {
@@ -707,44 +563,32 @@ data.raw["gui-style"].default["teleportation_button_style_cancel_link"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 224,
       y = 0,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 32,
       x = 224,
       y = 32,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 32,
       x = 224,
       y = 64,
-    }
   },
   left_click_sound =
   {
@@ -762,44 +606,32 @@ data.raw["gui-style"].default["teleportation_sprite_style_done_small"] = {
   right_padding = 0,
   bottom_padding = 0,
   left_padding = 0,
-  font = "default-button",
+  font = "font-lb",
   default_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 192,
       y = 96,
-    }
   },
   hovered_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       priority = "extra-high-no-scale",
       width = 32,
       height = 16,
       x = 192,
       y = 96,
-    }
   },
   clicked_graphical_set =
   {
-    type = "monolith",
-    monolith_image =
-    {
       filename = "__Teleportation__/graphics/buttons.png",
       width = 32,
       height = 16,
       x = 192,
       y = 96,
-    }
   },
   left_click_sound =
   {
@@ -809,8 +641,8 @@ data.raw["gui-style"].default["teleportation_sprite_style_done_small"] = {
 }
 
 data.raw["gui-style"].default["teleportation_textbox"] = {
-  type = "textfield_style",
-  --parent = "textfield_style",
+  type = "textbox_style",
+  parent = "textbox",
     minimal_width = 300,
     maximal_width = 300,
 }
